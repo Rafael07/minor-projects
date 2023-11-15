@@ -1,3 +1,3 @@
-# study-exercises
+# minor-projects
 
-#This repository contains some matters during my study run.
+#This repository contains some matters and minor projects from my study run.
